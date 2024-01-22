@@ -35,4 +35,4 @@ client.on("ready", () => {
   );
 });
 
-client.login(TOKEN);
+client.login(OTE0OTk2OTE5MTc5Mjg4Njc2.GXnKwu.dM6fwf1y8UhP57YKFPZyO5U75eZmTI9WS_4nMg );
